@@ -36,7 +36,7 @@ Before you start, make sure you have [Docker](https://docs.docker.com/install/) 
 
 ### Documentation
 
-Documentation can be found, after initial setup, for HTTP in [Postman](https://documenter.getpostman.com/view/3903375/Uz5CKx8X).
+Documentation can be found for HTTP in [Postman](https://documenter.getpostman.com/view/3903375/Uz5CKx8X).
 
 ### Initial setup
 1. Clone this repo into your local machine
@@ -51,7 +51,6 @@ Documentation can be found, after initial setup, for HTTP in [Postman](https://d
 3. Open API container's terminal
 
 4. Deploy database schema into the MySQL database.
-   
 
 5. Seed the database with default data.   
 
@@ -83,6 +82,6 @@ $ npm run test:cov
 
 <!-- Authors -->
 
-## Authors
+## Author
 
-1. <a href="https://github.com/10deyon" target="_blank">Emmanuel Deyon, Avoseh</a>
+1. <a href="https://github.com/10deyon" target="_blank">Emmanuel Deyon, AVOSEH</a>
