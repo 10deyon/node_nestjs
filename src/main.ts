@@ -15,6 +15,8 @@ async function bootstrap() {
       cookie: { maxAge: 60000 },
     }),
   );
+  app.use(passport.initialise());
+  app.use(passport.session());
   await app.listen(3000);
 }
 bootstrap();
